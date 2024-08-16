@@ -5,4 +5,6 @@ Analysis of goal trends
 ### heading 4
 
 **Bold**
+
 *Italics*
+[Waves in the Ocean](https://github.com/JaribuBahati/My-new-project/blob/main/Image.png)
